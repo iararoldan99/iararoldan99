@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2><em> Welcome to my GitHub! ☾  </em></h2>
 
-<!--
-**iararoldan99/iararoldan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://user-images.githubusercontent.com/59573205/93002431-6f5d8000-f50d-11ea-9bab-f472b5b173f2.png)
 
-Here are some ideas to get you started:
+**Si te interesa contactarte conmigo/If you want to contact me:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: Iara](https://img.shields.io/badge/-Iara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iararoldan/)](https://www.linkedin.com/in/iararoldan/)
+
+```java 
+public class MyBackendSkills{
+  String languajes = "Java"; 
+  String api = "REST";
+  String[] backendSkills = new String[] {"Springboot","Hibernate", "Maven", "Spring Security", "JSON Web Token"};
+  ArrayList<String> databases = new ArrayList<String>();
+    databases.add("MySQL");
+    databases.add("MongoDB");
+    System.out.println(databases);
+  }
+  String deploy = "Heroku"; 
+  public enum Testing {
+        JUNIT, MOCKITO;
+  }
+
+  boolean iWillLearnEvenMoreIfYouHireMe = true; 
+
+```
+🔮 Junior Developer
+🏡 Buenos Aires
+📡 Open to work 
