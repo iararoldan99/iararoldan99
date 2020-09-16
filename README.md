@@ -24,6 +24,6 @@ public class MyBackendSkills{
   boolean iWillLearnEvenMoreIfYouHireMe = true; 
 
 ```
-🔮 Junior Developer
-🏡 Buenos Aires
-📡 Open to work 
+🔮 Junior Developer<br>
+🏡 Buenos Aires<br>
+📡 Open to work <br>
