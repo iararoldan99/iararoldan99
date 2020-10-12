@@ -11,7 +11,7 @@ public class MyBackendSkills{
   String languajes = "Java"; 
   String api = "REST";
   String[] backendSkills = new String[] {"Springboot","Hibernate", "Maven", "Spring Security", "JSON Web Token"};
-  ArrayList<String> databases = new ArrayList<String>();
+  ArrayList<String> databases = new ArrayList<>();
     databases.add("MySQL");
     databases.add("MongoDB");
     System.out.println(databases);
