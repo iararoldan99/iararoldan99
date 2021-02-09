@@ -14,6 +14,7 @@ public class MyBackendSkills{
   ArrayList<String> databases = new ArrayList<>();
     databases.add("MySQL");
     databases.add("MongoDB");
+    databases.add("SQL Server");
     System.out.println(databases);
   }
   String deploy = "Heroku"; 
@@ -26,4 +27,4 @@ public class MyBackendSkills{
 ```
 🔮 Junior Developer<br>
 🏡 Buenos Aires<br>
-📡 Open to work <br>
+📡 Working full time <br>
