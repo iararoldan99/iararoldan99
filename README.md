@@ -2,7 +2,7 @@
 
 ![canva](https://user-images.githubusercontent.com/59573205/110562710-c8a71480-8128-11eb-8cb9-37f58eca8503.png)
 
-**Let's connect!:** 
+**Let's connect!** 
 
 [![Linkedin: Iara](https://img.shields.io/badge/-Iara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iararoldan/)](https://www.linkedin.com/in/iararoldan/)
 
