@@ -7,8 +7,8 @@
 [![Linkedin: Iara](https://img.shields.io/badge/-Iara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iararoldan/)](https://www.linkedin.com/in/iararoldan/)
 
 ```java 
-public class MyBackendSkills{
-  String languajes = "Java"; 
+public class MyWebDevelopmentSkills{
+  String[] languajes = new String[] {"Java", "JavaScript"}; 
   String api = "REST";
   String[] backendSkills = new String[] {"Springboot","Hibernate", "Maven", "Spring Security", "JSON Web Token"};
   ArrayList<String> databases = new ArrayList<>();
@@ -21,6 +21,8 @@ public class MyBackendSkills{
   public enum Testing {
         JUNIT, MOCKITO;
   }
+  
+  String[] frontendSkills = new String[] {"HTML", "CSS", "ReactJs"};
 
   boolean iWillLearnEvenMoreIfYouHireMe = true; 
 
