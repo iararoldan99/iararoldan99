@@ -1,6 +1,6 @@
 <h2><em> Welcome to my GitHub! ☾  </em></h2>
 
-![banner](https://user-images.githubusercontent.com/59573205/93002431-6f5d8000-f50d-11ea-9bab-f472b5b173f2.png)
+![canva](https://user-images.githubusercontent.com/59573205/110562710-c8a71480-8128-11eb-8cb9-37f58eca8503.png)
 
 **Si te interesa contactarte conmigo/If you want to contact me:** 
 
