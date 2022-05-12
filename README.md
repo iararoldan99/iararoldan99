@@ -1,35 +1,30 @@
-<h2> Welcome to my GitHub ☾  </h2>
+# Hi there, I'm Iara! 👋 Java Full Stack Developer 🪄
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iararoldan99&show_icons=true&theme=onedark" />
+<img align="left" width="39.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iararoldan99&layout=compact&theme=onedark" />
+<br/>
+<br/>
 
-<!-- ![canva](https://user-images.githubusercontent.com/59573205/110562710-c8a71480-8128-11eb-8cb9-37f58eca8503.png)
- -->
- 
- ![Alt Text](https://64.media.tumblr.com/00fd4c4a37906b2be269537acff6c957/4e599b9639b995f9-4c/s640x960/7a676026e897a3684bb86bf7f21c407ad6bee8ba.gifv)
+<br/>
 
-```java 
-public class MyWebDevelopmentSkills{
-  String[] languajes = new String[] {"Java", "JavaScript"}; 
-  String api = "REST";
-  String[] backendSkills = new String[] {"Springboot","Hibernate", "Maven", "Spring Security", "JSON Web Token"};
-  ArrayList<String> databases = new ArrayList<>();
-    databases.add("MySQL");
-    databases.add("MongoDB");
-    databases.add("SQL Server");
-    System.out.println(databases);
-  }
-  String deploy = "Heroku"; 
-  public enum Testing {
-        JUNIT, MOCKITO;
-  }
-  
-  String[] frontendSkills = new String[] {"HTML", "CSS", "ReactJs"};
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-  boolean iWillLearnEvenMoreIfYouHireMe = true; 
 
-```
-🔮 Junior Developer<br>
-🏡 Buenos Aires<br>
-📡 Working full time <br>
+# 👩‍💻  I work everyday with the following technologies: 
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="left" alt="Springboot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Let's connect!** 
+<br/>
+<br/>
 
-[![Linkedin: Iara](https://img.shields.io/badge/-Iara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iararoldan/)](https://www.linkedin.com/in/iararoldan/)
+
+# 🚀 Check out my portfolio:
+
+
