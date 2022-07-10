@@ -1,4 +1,4 @@
-# Hi there, I'm Iara! 👋 Java Full Stack Developer 🪄
+# Hi there, I'm Iara! 👋 Web Developer 🪄
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iararoldan99&show_icons=true&theme=onedark" />
 <img align="left" width="39.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iararoldan99&layout=compact&theme=onedark" />
 <br/>
